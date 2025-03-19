@@ -1,0 +1,6 @@
+//configuração para executar o code-runner através de arquivos typscript
+{
+    "code-runner.executorMap": {        
+        "typescript": "npx tsx"
+    }
+}
